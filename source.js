@@ -5,7 +5,7 @@ var searchEngine = 'google'; // default search engine - set google for google se
 var numberOfScreens = 3; // set number of screens (1 or 2 or 3)
  
 var blockName = new Array(); // set names of blocks
-blockName[1] = 'Welcome to Africa One ePortal';
+blockName[1] = 'Welcome to One African ePortal';
 blockName[2] = 'News | Business | Directory & Jobs';
 blockName[3] = 'Sports | Life | Entertaiment | Culture & fun';
 
