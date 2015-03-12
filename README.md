@@ -1,3 +1,3 @@
 # Myportal
 
-New Landing Page Idea Africa One ePortal, 
+New Landing Page Idea For Africa One ePortal, 
